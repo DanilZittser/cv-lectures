@@ -46,7 +46,7 @@ echo "alias ls=\"ls -lh\"" >> .bash_aliases
 
 # установка программ
 sudo apt update
-sudo apt install xclip git python3-venv graphviz
+sudo apt install tree xclip git python3-venv graphviz
 ```
 
 ## [Основы работы с Git](https://git-scm.com/book/ru/v2)

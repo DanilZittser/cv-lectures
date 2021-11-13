@@ -1,5 +1,5 @@
 # Введение в Computer Vision
-В этом репозитории содержится курс лекций для студентов старших курсов посвящённых введению в Data Science и Computer Vision.
+В этом репозитории содержится курс лекций для студентов старших курсов и школьников посвящённых введению в Data Science и Computer Vision.
 
 Всего планируется 5 лекций:
 1. Инструменты программирования:
@@ -19,7 +19,7 @@
 
 ```bash
 git clone git@github.com:DanilZittser/cv-lectures.git
-cd lectures
+cd cv-lectures
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -U pip

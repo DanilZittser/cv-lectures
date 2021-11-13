@@ -18,7 +18,7 @@
 После первого занятия на Ваших компьютерах должен быть установлен `Jupyter Notebook` по пути `/opt/jupyter/venv/`.
 
 ```bash
-git clone ssh://git@gl.sdvor.com:1251/face-id/students-day/lectures.git
+git clone git@github.com:DanilZittser/cv-lectures.git
 cd lectures
 python3 -m venv venv
 source venv/bin/activate
